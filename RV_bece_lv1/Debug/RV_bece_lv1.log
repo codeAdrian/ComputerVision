@@ -1,0 +1,26 @@
+﻿  RV_bece_lv1Dlg.cpp
+d:\adrian bece designs\programming\rv_bece_lv1\rv_bece_lv1\rv_bece_lv1dlg.cpp(496): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(226) : see declaration of 'freopen'
+d:\adrian bece designs\programming\rv_bece_lv1\rv_bece_lv1\rv_bece_lv1dlg.cpp(497): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(226) : see declaration of 'freopen'
+d:\adrian bece designs\programming\rv_bece_lv1\rv_bece_lv1\rv_bece_lv1dlg.cpp(498): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(226) : see declaration of 'freopen'
+d:\adrian bece designs\programming\rv_bece_lv1\rv_bece_lv1\rv_bece_lv1dlg.cpp(547): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+d:\adrian bece designs\programming\rv_bece_lv1\rv_bece_lv1\rv_bece_lv1dlg.cpp(548): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+d:\adrian bece designs\programming\rv_bece_lv1\rv_bece_lv1\rv_bece_lv1dlg.cpp(549): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+d:\adrian bece designs\programming\rv_bece_lv1\rv_bece_lv1\rv_bece_lv1dlg.cpp(550): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+d:\adrian bece designs\programming\rv_bece_lv1\rv_bece_lv1\rv_bece_lv1dlg.cpp(553): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+d:\adrian bece designs\programming\rv_bece_lv1\rv_bece_lv1\rv_bece_lv1dlg.cpp(573): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+d:\adrian bece designs\programming\rv_bece_lv1\rv_bece_lv1\rv_bece_lv1dlg.cpp(638): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+d:\adrian bece designs\programming\rv_bece_lv1\rv_bece_lv1\rv_bece_lv1dlg.cpp(641): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+d:\adrian bece designs\programming\rv_bece_lv1\rv_bece_lv1\rv_bece_lv1dlg.cpp(644): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+d:\adrian bece designs\programming\rv_bece_lv1\rv_bece_lv1\rv_bece_lv1dlg.cpp(647): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+d:\adrian bece designs\programming\rv_bece_lv1\rv_bece_lv1\rv_bece_lv1dlg.cpp(934): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+d:\adrian bece designs\programming\rv_bece_lv1\rv_bece_lv1\rv_bece_lv1dlg.cpp(935): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+d:\adrian bece designs\programming\rv_bece_lv1\rv_bece_lv1\rv_bece_lv1dlg.cpp(941): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+d:\adrian bece designs\programming\rv_bece_lv1\rv_bece_lv1\rv_bece_lv1dlg.cpp(942): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+d:\adrian bece designs\programming\rv_bece_lv1\rv_bece_lv1\rv_bece_lv1dlg.cpp(947): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+d:\adrian bece designs\programming\rv_bece_lv1\rv_bece_lv1\rv_bece_lv1dlg.cpp(952): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+d:\adrian bece designs\programming\rv_bece_lv1\rv_bece_lv1\rv_bece_lv1dlg.cpp(1045): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+  RV_bece_lv1.vcxproj -> D:\Adrian Bece Designs\Programming\RV_bece_lv1\Debug\RV_bece_lv1.exe
